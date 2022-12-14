@@ -1,0 +1,95 @@
+{
+    "items":
+    [
+        "Banana|500",
+        "Beard|250",
+        "Cherrles|500",
+        "Swag|1000",
+        "Future|1000",
+        "Derpy|250",
+        "Fishy|500",
+        "Nerd Alert|250",
+        "Tophat|150",
+        "Crown|5000",
+        "Toothless|250",
+        "Propeller|500",
+        "Red Nose|150",
+        "Straw Hat|150",
+        "Christmas|250",
+        "Blue Christmas|250",
+        "Boned|250",
+        "Snow Toe|250",
+        "Burger|500",
+        "Sobber|150",
+        "Noted|150",
+        "Helmet|1000"
+    ],
+    "greetings&goodbyes":
+    [
+        "Hello!",
+        "Hallo!",
+        "Welcome to the land!",
+        "Happy holidays!",
+        "Greetings, toes!",
+        "Wonderful weather we're having!",
+        "I gotta go!",
+        "I gotta bounce!",
+        "Tschuss!",
+        "Toodles!",
+        "Goodbye.",
+        "Season's greetings!",
+        "The toe-signal is on. Gotta go.",
+        "Time for me to sleep!"
+    ],
+    "questions&answers":
+    [
+        "How are you?",
+        "What are you up to?",
+        "How's it hanging?",
+        "What is that smell?",
+        "Where is some silver?",
+        "Are you hungry? I am!",
+        "Are you thirsty? I am!",
+        "I'm doing well!",
+        "I'm getting some silver!",
+        "I'm beating up some baddies!",
+        "I'm going to save the world!",
+        "Yes!",
+        "No!",
+        "I agree!",
+        "I disagree!",
+        "Yep.",
+        "Yup.",
+        "Nope.",
+        "Nuh-uh."
+    ],
+    "action":
+    [
+        "You need to heal up at a green station!",
+        "It's been a while. Go save!",
+        "Let's go get some silver!",
+        "Let's roll out!",
+        "Time for adventure!",
+        "Let's go find another toe!",
+        "Let's go venture into the caves!",
+        "Let's go ride a river current!",
+        "Stay close!",
+        "Tread with caution...",
+        "Look out for secrets!"
+    ],
+    "funnyphrases":
+    [
+        "Laughing out loud!",
+        "I'm rolling on the floor!",
+        "I'm laughing my mistletoe off!",
+        "Eggs Dee!",
+        "Where the toes at?",
+        "GG. Great goats!",
+        "Cowabunga!",
+        "Who let the dogs out?!",
+        "Turn down for what!",
+        "Stop in the name of the law!",
+        "To the toecave!",
+        "Time to spread the holiday spirit!"
+    ]
+}
