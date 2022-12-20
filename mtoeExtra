@@ -4,7 +4,7 @@
         "Banana|500|1",
         "Sick Beats|500|1",
         "Beard|250|1",
-        "J's Ladder|500|1",
+        "J's Ladder|750|1",
         "Swag|1000|1",
         "Future|1000|1",
         "Derpy|250|1",
@@ -12,10 +12,10 @@
         "Bucket|250|1",
         "Bomb|500|1",
         "Nerd Alert|250|1",
-        "Tophat|150|1",
+        "Top Hat|150|1",
         "Crown|5000|1",
         "Toothless|150|1",
-        "Propeller|500|1",
+        "Propeller|250|1",
         "Red Nose|150|1",
         "Straw Hat|150|1",
         "Christmas|250|1",
@@ -28,7 +28,13 @@
         "Helmet|1000|1",
         "Lit Up|500|1",
         "Astro Toe|2500|1",
-        "Dark Matter|2500|1"
+        "Dark Matter|2500|1",
+        "G. Bucket|350|0",
+        "G. Top Hat|250|0",
+        "G. Propeller|350|0",
+        "G. Helmet|1250|0",
+        "G. Christmas|350|0",
+        "G. Burger|750|0"
     ],
     "greetings&goodbyes":
     [
