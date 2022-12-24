@@ -16,7 +16,7 @@
         "Crown|5000|0",
         "Toothless|250|0",
         "Propeller|500|0",
-        "Red Nose|250|1",
+        "Red Nose|250|0",
         "Straw Hat|250|0",
         "Christmas|500|1",
         "Merry Blues|500|1",
@@ -28,7 +28,7 @@
         "Helmet|2500|0",
         "Lit Up|1000|0",
         "Astro Toe|5000|0",
-        "Dark Matter|5000|0",
+        "Dark Matter|5000|1",
     ],
     "greetings&goodbyes":
     [
