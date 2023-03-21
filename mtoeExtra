@@ -1,5 +1,62 @@
 {
-    "packs": ["Noob Pack", "Fighter Pack"],
+    "packs": ["Starter Pack", "Fighter Pack", "Goody Gold Pack", "Animated Bling", "Holiday Pack"],
+    
+    "Starter Pack":
+    [
+        "500|3|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains basic cosmetic items."
+        "Banana",
+        "Swag",
+        "Top Hat",
+        "Straw Hat",
+        "Toothless",
+        "Derpy",
+        "Noted",
+        "Nerd Alert",
+        "Sobber",
+        "Bucket",
+        "Propeller",
+        "Boned"
+    ],
+    "Fighter Pack":
+    [
+        "1000|1|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains war-based cosmetic items.",
+        "Soldier",
+        "Buffalo",
+        "Gas Mask",
+        "Bomb",
+        "Tanker",
+        "Future"
+    ],
+    "Goody Gold Pack":
+    [
+        "1500|1|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains golden cosmetic items.",
+        "G. Bucket",
+        "G. Top Hat",
+        "G. Propeller",
+        "G. Helmet",
+        "G. Christmas",
+        "G. Burger"
+    ],
+    "Animated Bling Pack":
+    [
+        "1000|2|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains animated cosmetic items.",
+        "J's Ladder",
+        "Astro Toe",
+        "Dark Matter",
+        "Fired Up",
+        "Bomb",
+        "Lit Up"
+    ],
+    "Holidays Pack":
+    [
+        "750|3|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains holiday-themed cosmetic items.",
+        "Christmas",
+        "Merry Blues",
+        "Red Nose",
+        "Snow Toe",
+        "G. Christmas"
+    ]
+    
     "items":
     [
         "Banana|500|1",
