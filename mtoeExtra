@@ -34,7 +34,11 @@
         "G. Propeller|450|1",
         "G. Helmet|1250|1",
         "G. Christmas|450|1",
-        "G. Burger|850|1"
+        "G. Burger|850|1",
+        "Soldier|500|1",
+        "Gas Mask|250|1",
+        "Fired Up|350|1",
+        "Tanker|350|1",
     ],
     "greetings&goodbyes":
     [
@@ -49,6 +53,7 @@
         "Tschuss!",
         "Toodles!",
         "Goodbye!",
+        "Cool outfit!",
         "Season's greetings!",
         "The toe-signal is on. Gotta go.",
         "Time for me to sleep!"
