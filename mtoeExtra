@@ -1,6 +1,6 @@
 
 {
-    "packs": ["Starter Pack", "Fighter Pack", "Goody Gold Pack", "Goody Gold Pack", "Goody Gold Pack"],
+    "packs": ["Starter Pack", "Fighter Pack", "Goody Gold Pack"],
     
     "Starter Pack":
     [
@@ -30,7 +30,7 @@
     ],
     "Goody Gold Pack":
     [
-        "1500|1|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains golden cosmetic items.",
+        "1500|1|https://www.dropbox.com/s/529z2c41ywpabz2/goodygold.png?dl=1|This pack contains golden cosmetic items.",
         "G. Bucket",
         "G. Top Hat",
         "G. Propeller",
