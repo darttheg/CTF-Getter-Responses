@@ -1,10 +1,10 @@
 
 {
-    "packs": ["Starter Pack", "Fighter Pack", "Goody Gold Pack"],
+    "packs": ["Starter Pack", "Fighter Pack", "Goody Gold Pack", "Animated Bling Pack"],
     
-    "Starter Pack":
+    "Noob Pack":
     [
-        "500|3|https://www.dropbox.com/s/o2zj9dc6qcs7dzp/radiance.png?dl=1|This pack contains basic cosmetic items.",
+        "500|3|https://www.dropbox.com/s/5bwpvybwivh1ykt/noobyPack.png?dl=1|This pack contains basic cosmetic items.",
         "Banana",
         "Swag",
         "Top Hat",
@@ -40,7 +40,7 @@
     ],
     "Animated Bling Pack":
     [
-        "1000|2|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains animated cosmetic items.",
+        "1000|2|https://www.dropbox.com/s/i0sme4vm6g8f0sh/special.png?dl=1|This pack contains animated cosmetic items.",
         "J's Ladder",
         "Astro Toe",
         "Dark Matter",
