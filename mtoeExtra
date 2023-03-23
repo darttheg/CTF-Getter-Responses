@@ -4,7 +4,7 @@
     
     "Noob Pack":
     [
-        "500|3|https://www.dropbox.com/s/5bwpvybwivh1ykt/noobyPack.png?dl=1|This pack contains basic cosmetic items.",
+        "500|3|https://www.dropbox.com/s/5bwpvybwivh1ykt/noobyPack.png?dl=1|This pack contains up to 3 basic cosmetic items.",
         "Banana",
         "Swag",
         "Top Hat",
@@ -18,19 +18,18 @@
         "Propeller",
         "Boned"
     ],
-    "Fighter Pack":
+    "Mistlefield Pack":
     [
-        "1000|1|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains war-based cosmetic items.",
+        "1000|3|https://www.dropbox.com/s/frjivipwajfcalt/fighterPack.png?dl=1|This pack contains up to 3 battle-ready cosmetic items.",
         "Soldier",
         "Buffalo",
         "Gas Mask",
         "Bomb",
-        "Tanker",
-        "Future"
+        "Tanker"
     ],
     "Goody Gold Pack":
     [
-        "1500|1|https://www.dropbox.com/s/529z2c41ywpabz2/goodygold.png?dl=1|This pack contains golden cosmetic items.",
+        "1500|1|https://www.dropbox.com/s/529z2c41ywpabz2/goodygold.png?dl=1|This pack contains 1 special golden cosmetic item.",
         "G. Bucket",
         "G. Top Hat",
         "G. Propeller",
@@ -40,7 +39,7 @@
     ],
     "Animated Bling Pack":
     [
-        "1000|2|https://www.dropbox.com/s/i0sme4vm6g8f0sh/special.png?dl=1|This pack contains animated cosmetic items.",
+        "1000|1|https://www.dropbox.com/s/i0sme4vm6g8f0sh/special.png?dl=1|This pack contains 1 special animated cosmetic item.",
         "J's Ladder",
         "Astro Toe",
         "Dark Matter",
