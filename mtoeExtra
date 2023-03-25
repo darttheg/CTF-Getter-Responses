@@ -4,7 +4,7 @@
     
     "Noob Pack":
     [
-        "500|3|https://www.dropbox.com/s/5bwpvybwivh1ykt/noobyPack.png?dl=1|This pack contains up to 3 basic cosmetic items.",
+        "500|3|1|This pack contains up to 3 basic cosmetic items.",
         "Banana",
         "Swag",
         "Top Hat",
@@ -20,7 +20,7 @@
     ],
     "Mistlefield Pack":
     [
-        "1000|3|https://www.dropbox.com/s/mkqvyny8frvtof4/mistlefield.png?dl=1|This pack contains up to 3 battle-ready cosmetic items.",
+        "1000|3|2|This pack contains up to 3 battle-ready cosmetic items.",
         "Soldier",
         "Buffalo",
         "Gas Mask",
@@ -29,7 +29,7 @@
     ],
     "Goody Gold Pack":
     [
-        "1500|1|https://www.dropbox.com/s/529z2c41ywpabz2/goodygold.png?dl=1|This pack contains 1 special golden cosmetic item.",
+        "1500|1|3|This pack contains 1 special golden cosmetic item.",
         "G. Bucket",
         "G. Top Hat",
         "G. Propeller",
@@ -39,7 +39,7 @@
     ],
     "Animated Bling Pack":
     [
-        "1000|1|https://www.dropbox.com/s/i0sme4vm6g8f0sh/special.png?dl=1|This pack contains 1 special animated cosmetic item.",
+        "1000|1|4|This pack contains 1 special animated cosmetic item.",
         "J's Ladder",
         "Astro Toe",
         "Dark Matter",
@@ -49,7 +49,7 @@
     ],
     "Toemas Pack":
     [
-        "750|3|https://www.dropbox.com/s/h8c59nkslwg7av4/toemas.png?dl=1|This pack contains Christmas-themed cosmetic items.",
+        "750|3|5|This pack contains Christmas-themed cosmetic items.",
         "Christmas",
         "Merry Blues",
         "Red Nose",
